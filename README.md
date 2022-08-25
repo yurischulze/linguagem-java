@@ -111,6 +111,7 @@ Revisão sobre a linguagem Java
   * Inicialização de um objeto 
   * Utilização de um objeto
   * Comparação de objetos
+  * Método toString
   * Visibilidade de atributos e métodos
     * Público
     * Privado 
@@ -134,11 +135,20 @@ Revisão sobre a linguagem Java
     * Conversão de tipos 
   * Visibilidade de atributos e métodos
      * Protegido
+  * Palavra reservada super 
+     * Encadeamento de construtor 
+     * Encadeamento de método
 * Interface
   * Definição
      * Representação de interface na UML
   * Criação de uma classe que implementa uma interface
   * Sobreescrita de métodos
+  * Polimorfismo
+    * Conversão de tipos 
+* Classe abstrada
+  * Definição
+     * Representação de classe abstrata na UML
+  * Criação de uma classe que extende uma classe abstrata
   * Polimorfismo
     * Conversão de tipos 
 * Coleções 
