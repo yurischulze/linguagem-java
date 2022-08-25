@@ -9,6 +9,15 @@ Revisão sobre a linguagem Java
   * Modelo de Tipagem de dados
   * Modelo de construção da Linguagem  
   * Estilo de código
+  * Versões
+    * Java 1.8
+      * Novas funcionalidades 
+    * Java 11
+      * Novas funcionalidades
+    * Java 18
+      * Novas funcionalidades
+    * Java 19 
+      * Novas funcionalidades
 * Ambiente de Desenvolvimento e Ferramentas
   * Documentação oficial
   * JDK
@@ -66,9 +75,11 @@ Revisão sobre a linguagem Java
 * Métodos estáticos
   * Estrutura de declaração de um método estático
   * Nomes válidos e boas práticas 
-  * Parâmetros
+  * Parâmetros 
   * Retorno
-  * Utilização de métodos estáticos disponíveis em outra classe/arquivo.
+  * Utilização de métodos estáticos 
+    * Disponíveis na mesma classe
+    * Disponíveis em outra classe/arquivo. 
 
 ## Livros
 
@@ -79,3 +90,5 @@ Schildt, Herbert. Java para iniciantes. Bookman Editora, 2015.
 Finegan, Edward, and Robert Liguori. OCA Java SE 8: Guia de Estudos para o Exame 1Z0-808. Bookman Editora, 2018.
 
 Bloch, Joshua. Java Efetivo: 3a edição. Alta Books Editora, 2019.
+
+Martin, Robert C. Código limpo: habilidades práticas do Agile software. Alta Books, 2019.
