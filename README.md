@@ -17,6 +17,7 @@ Revisão sobre a linguagem Java
       * Novas funcionalidades
     * Java 19 
       * Novas funcionalidades
+  * Conjunto de palavras reservadas
 * Ambiente de Desenvolvimento e Ferramentas
   * Documentação oficial
   * JDK
@@ -71,6 +72,7 @@ Revisão sobre a linguagem Java
     * for
     * while
     * do-while 
+    * Comandos break e continue
 * Arranjos e Matrizes
   * Definição matemática
   * Declaração de arranjos
@@ -126,6 +128,9 @@ Revisão sobre a linguagem Java
      * Default/Pacote  
   * Pacote default
     * Importar uma classe em um pacote default 
+* Escopo de classe e objeto
+  * Definição 
+  * Palavra reservada static 
 * Herança
   * Definição
      * Representação de herança na UML
@@ -182,11 +187,23 @@ Revisão sobre a linguagem Java
     * Period
     * Duration
     * Formação de Date/Time 
+* Modificador final
+  * Definição
+    * Representação de final no diagrama UML 
+  * Modificador final em uma variável
+    * Variável  de tipo primitivo
+    * Objeto 
+  * Modificador final em um atributo
+    * Atributo primitivo
+    * Objeto 
+  * Modificador final em um método
+  * Modificador final em uma classe
+  * Objeto imutável
 * Tipos Genéricos
   * Definição
      * Representação de tipos genéricos na UML
   * Criação de classes com tipos genéricos
-  * Inicialização de objetos com tipos genéricos 
+  * Inicialização de objetos com tipos genéricos  
 * Testes Unitários
   * TDD
   * JUnit
