@@ -177,6 +177,16 @@ Revisão sobre a linguagem Java
      * Representação de tipos genéricos na UML
   * Criação de classes com tipos genéricos
   * Inicialização de objetos com tipos genéricos 
+* Testes Unitários
+  * TDD
+  * JUnit
+    * Adicionar JUnit no projeto Java
+  * Teste assertEquals
+  * Teste assertTrue/assertFalse
+  * Teste assertNull/assertNull
+  * Teste assertArrayEquals  
+  * Teste fail
+  * Teste capturar uma exception
 * JDBC
   * Definição
   * Driver de conexão 
@@ -196,6 +206,13 @@ Revisão sobre a linguagem Java
     * Obter um registro
     * Obter uma coleção de registros
   * Bloco de instruções try-with-resources
+  * Captura de exceções
+    * Driver não encontrado
+    * Conexão inválida
+    * Tabela não encontrada
+    * Registro não encontrado
+    * Erro ao inserir/atualizar
+    * Erro ao consultar
   * Design Patterns
     * Singleton Factory para criação de conexões   
       * Representação na UML
