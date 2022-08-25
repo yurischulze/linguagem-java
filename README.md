@@ -262,6 +262,20 @@ Revisão sobre a linguagem Java
     * DAO para manipular dados de uma tabela   
       * Representação na UML
 
+## Listas de Exercícios
+
+[https://github.com/glaucioscheibel/exercicios](SCHEIBEL, Glaucio. Exercícios de Programação)
+
+[https://www.beecrowd.com.br/judge/pt/](Beecrowd)
+
+[https://leetcode.com](Leetcode)
+
+[https://www.hackerrank.com](HackerRank)
+
+[https://exercism.org/tracks/java](Exercism)
+
+
+
 ## Referências Bibliográficas
 
 FURGERI, SÉRGIO. Java 8 Ensino Didático: Desenvolvimento e Implementação de Aplicações. Saraiva Educação SA, 2018.
