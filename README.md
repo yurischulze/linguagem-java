@@ -68,10 +68,16 @@ Revisão sobre a linguagem Java
     * Coluna a coluna
     * Em diagonal 
 * Tratamento de Exceções
-  * Divisão por zero
-  * Conversão de tipos de dados inválidos
-  * Acessar uma posição inválida em um arranjo
-  * Acessar uma String nula
+  * Definição
+  * Exceções comuns
+    * Divisão por zero
+    * Conversão de tipos de dados inválidos
+    * Acessar uma posição inválida em um arranjo
+    * Acessar uma String nula
+  * Bloco para capturar uma exceção 
+  * Bloco para capturar diferentes exceções 
+  * Bloco finally
+  * Lançar uma exceção
 * Métodos estáticos
   * Estrutura de declaração de um método estático
   * Nomes válidos e boas práticas 
@@ -124,6 +130,7 @@ Revisão sobre a linguagem Java
 * Coleções 
   * Definição
   * List e Arraylist 
+    * Aplicações
     * Declaração
     * Utilização
       * Adicionar elementos
@@ -131,12 +138,31 @@ Revisão sobre a linguagem Java
       * Atualizar elementos 
       * Remover elementos 
   * Map e HashMap
+    * Aplicações 
     * Declaração
     * Utilização
       * Adicionar elementos
       * Acessar elementos
       * Atualizar elementos 
       * Remover elementos 
+* Tipo Enumerado
+  *  Definição
+     * Representação de tipos enumerados na UML
+* Representação de tempo
+  * Classe Date
+  * Classe Calendar
+  * API Date/Time Java 8
+    * LocalDate
+    * LocalTime
+    * LocalDateTime
+    * Period
+    * Duration
+    * Formação de Date/Time 
+* Tipos Genéricos
+  * Definição
+     * Representação de tipos genéricos na UML
+  * Criação de classes com tipos genéricos
+  * Inicialização de objetos com tipos genéricos 
 
 ## Referências Bibliográficas
 
