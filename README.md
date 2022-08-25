@@ -86,6 +86,7 @@ Revisão sobre a linguagem Java
   * Utilização de métodos estáticos 
     * Disponíveis na mesma classe
     * Disponíveis em outra classe/arquivo. 
+  * Recursão 
 * Classe
   * Definição
     * Representação de classe e objeto na UML
