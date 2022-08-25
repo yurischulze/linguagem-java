@@ -18,25 +18,25 @@ Revisão sobre a linguagem Java
     * Java 19 
       * Novas funcionalidades
   * Conjunto de palavras reservadas
-* Ambiente de Desenvolvimento e Ferramentas
-  * Documentação oficial
-  * JDK
-  * IDEs
-    * Como criar um projeto Java em uma IDE
-* Mercado
-  * Popularidade 
-    * Tiobe
-    * Survey da Stackoverflow 
-    * Survey da Jetbrains 
-  * Vagas e salários 
-    * Survey da Stackoverflow 
-    * Survey da Jetbrains  
-  * Áreas de aplicações da linguagem Java 
-    * Survey da Stackoverflow 
-    * Survey da Jetbrains  
-  * Principais bibliotecas/frameworks 
-    * Survey da Stackoverflow 
-    * Survey da Jetbrains  
+  * Ambiente de Desenvolvimento e Ferramentas
+    * Documentação oficial
+    * JDK
+    * IDEs
+      * Como criar um projeto Java em uma IDE
+  * Mercado
+    * Popularidade 
+      * Tiobe
+      * Survey da Stackoverflow 
+      * Survey da Jetbrains 
+    * Vagas e salários 
+      * Survey da Stackoverflow 
+      * Survey da Jetbrains  
+    * Áreas de aplicações da linguagem Java 
+      * Survey da Stackoverflow 
+      * Survey da Jetbrains  
+    * Principais bibliotecas/frameworks 
+      * Survey da Stackoverflow 
+      * Survey da Jetbrains  
 * Hello World
   * Estrutura mínima de um código Java
   * Nome do arquivo e Extensão
@@ -56,14 +56,24 @@ Revisão sobre a linguagem Java
     * Operadores aritméticos
     * Operadores booleanos
   * Conversão de tipos de dados
+* Saída de Dados
+  * Método System.out.println
+  * Método System.out.print
+  * Exibir o valor de uma variável
+  * Exibir o valor de um decimal  
 * Classe Math
+  * Definição
+  * Principais operações 
 * String
   * Concatenação de String
-  * Operações sobre String
+  * Principais operações sobre String
   * Comparação de String
   * Diferença entre String e caracter
 * Entrada de Dados
-  * Scanner
+  * Classe Scanner
+    * Obter um valor inteiro
+    * Obter um valor decimal
+    * Obter um valor de texto 
 * Fluxo de Controle
   * Estruturas de Decisões
     * if-else-then
@@ -82,6 +92,8 @@ Revisão sobre a linguagem Java
     * Linha a linha
     * Coluna a coluna
     * Em diagonal 
+  * Utilizar arranjos e matrizes como parâmetros de métodos 
+  * Utilizar arranjos e matrizes como retorno de métodos 
 * Tratamento de Exceções
   * Definição
   * Exceções comuns
