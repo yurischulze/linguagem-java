@@ -3,15 +3,21 @@ Revisão sobre a linguagem Java
 
 ## Tópicos de Estudos
 
+* Linguagem de programação Java
+  * Modelo de construção da Linguagem  
+  * Tipagem de dados
 * Ambiente de Desenvolvimento e Ferramentas
+  * Documentação oficial
   * JDK
   * IDEs
+    * Como criar um projeto Java em uma IDE
 * Hello World
   * Estrutura mínima de um código Java
   * Nome do arquivo e Extensão
   * Nome da classe
   * Método main
   * Escrever dados no console
+  * Indentação de código
   * Compilação e Execução via linha de comando
 * Tipos de Dados e operadores
   * Tipos de Dados
@@ -21,6 +27,7 @@ Revisão sobre a linguagem Java
   * Conversão de tipos de dados
 * String
   * Concatenação de String
+  * Operações sobre String
   * Comparação de String
   * Diferença entre String e caracter
 * Entrada de Dados
