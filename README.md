@@ -4,8 +4,11 @@ Revisão sobre a linguagem Java
 ## Tópicos de Estudos
 
 * Linguagem de programação Java
+  * Paradigmas de Programação
+  * Áreas de aplicações da linguagem Java 
+  * Modelo de Tipagem de dados
   * Modelo de construção da Linguagem  
-  * Tipagem de dados
+  * Estilo de código
 * Ambiente de Desenvolvimento e Ferramentas
   * Documentação oficial
   * JDK
@@ -18,13 +21,19 @@ Revisão sobre a linguagem Java
   * Método main
   * Escrever dados no console
   * Indentação de código
+  * Delimitação de uma instrução
+  * Delimitação de bloco de instruções
   * Compilação e Execução via linha de comando
 * Tipos de Dados e operadores
   * Tipos de Dados
   * Declarações de variáveis
+  * Nomes válidos para variáveis e boas práticas 
+  * Atribuição de valores
   * Operadores
-    * Operadores abreviados
+    * Operadores aritméticos
+    * Operadores booleanos
   * Conversão de tipos de dados
+* Classe Math
 * String
   * Concatenação de String
   * Operações sobre String
@@ -39,8 +48,27 @@ Revisão sobre a linguagem Java
   * Estruturas de Repetições
     * for
     * while
-    * do-while
+    * do-while 
+* Arranjos e Matrizes
+  * Definição matemática
+  * Declaração de arranjos
+  * Declaração de matrizes
+  * Percorrer arranjos
+  * Percorrer matrizes
+    * Linha a linha
+    * Coluna a coluna
+    * Em diagonal 
 * Tratamento de Exceções
+  * Divisão por zero
+  * Conversão de tipos de dados inválidos
+  * Acessar uma posição inválida em um arranjo
+  * Acessar uma String nula
+* Métodos estáticos
+  * Estrutura de declaração de um método estático
+  * Nomes válidos e boas práticas 
+  * Parâmetros
+  * Retorno
+  * Utilização de métodos estáticos disponíveis em outra classe/arquivo.
 
 ## Livros
 
