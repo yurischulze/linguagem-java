@@ -264,15 +264,15 @@ Revisão sobre a linguagem Java
 
 ## Listas de Exercícios
 
-[https://github.com/glaucioscheibel/exercicios](SCHEIBEL, Glaucio. Exercícios de Programação)
+[SCHEIBEL, Glaucio. Exercícios de Programação](https://github.com/glaucioscheibel/exercicios)
 
-[https://www.beecrowd.com.br/judge/pt/](Beecrowd)
+[Beecrowd](https://www.beecrowd.com.br/judge/pt/)
 
-[https://leetcode.com](Leetcode)
+[Leetcode](https://leetcode.com)
 
-[https://www.hackerrank.com](HackerRank)
+[HackerRank](https://www.hackerrank.com)
 
-[https://exercism.org/tracks/java](Exercism)
+[Exercism](https://exercism.org/tracks/java)
 
 
 
@@ -287,3 +287,5 @@ Finegan, Edward, and Robert Liguori. OCA Java SE 8: Guia de Estudos para o Exame
 Bloch, Joshua. Java Efetivo: 3a edição. Alta Books Editora, 2019.
 
 Martin, Robert C. Código limpo: habilidades práticas do Agile software. Alta Books, 2019.
+
+Fowler, Martin. UML Essencial: um breve guia para linguagem padrão. Bookman editora, 2014.
