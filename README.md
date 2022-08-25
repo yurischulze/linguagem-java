@@ -37,7 +37,7 @@ Revisão sobre a linguagem Java
     * Principais bibliotecas/frameworks 
       * Survey da Stackoverflow 
       * Survey da Jetbrains  
-* Hello World
+* [Hello World](02.md)
   * Estrutura mínima de um código Java
   * Nome do arquivo e Extensão
   * Nome da classe
@@ -47,7 +47,7 @@ Revisão sobre a linguagem Java
   * Delimitação de uma instrução
   * Delimitação de bloco de instruções
   * Compilação e Execução via linha de comando
-* Tipos de Dados e operadores
+* [Tipos de Dados e operadores](03.md)
   * Tipos de Dados
   * Declarações de variáveis
   * Nomes válidos para variáveis e boas práticas 
@@ -56,7 +56,7 @@ Revisão sobre a linguagem Java
     * Operadores aritméticos
     * Operadores booleanos
   * Conversão de tipos de dados
-* Saída de Dados
+* [Saída de Dados](04.md)
   * Método System.out.println
   * Método System.out.print
   * Exibir o valor de uma variável
