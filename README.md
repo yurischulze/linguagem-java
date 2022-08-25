@@ -5,7 +5,6 @@ Revisão sobre a linguagem Java
 
 * Linguagem de programação Java
   * Paradigmas de Programação
-  * Áreas de aplicações da linguagem Java 
   * Modelo de Tipagem de dados
   * Modelo de construção da Linguagem  
   * Estilo de código
@@ -23,6 +22,20 @@ Revisão sobre a linguagem Java
   * JDK
   * IDEs
     * Como criar um projeto Java em uma IDE
+* Mercado
+  * Popularidade 
+    * Tiobe
+    * Survey da Stackoverflow 
+    * Survey da Jetbrains 
+  * Vagas e salários 
+    * Survey da Stackoverflow 
+    * Survey da Jetbrains  
+  * Áreas de aplicações da linguagem Java 
+    * Survey da Stackoverflow 
+    * Survey da Jetbrains  
+  * Principais bibliotecas/frameworks 
+    * Survey da Stackoverflow 
+    * Survey da Jetbrains  
 * Hello World
   * Estrutura mínima de um código Java
   * Nome do arquivo e Extensão
@@ -164,6 +177,30 @@ Revisão sobre a linguagem Java
      * Representação de tipos genéricos na UML
   * Criação de classes com tipos genéricos
   * Inicialização de objetos com tipos genéricos 
+* JDBC
+  * Definição
+  * Driver de conexão 
+  * Como adicionar o driver de conexão no projeto Java
+  * Criação de uma conexão com o banco de dados
+    * Classe DataManager
+    * String de conexão
+      * Banco SQLite
+      * Banco MySql
+      * Banco Postgre 
+    * Classe Connection
+  * Enviar instruções SQL
+    * Classe Statement
+    * Classe PreparedStatment   
+  * Consultar registros no banco de dados
+    * Classe ResultSet
+    * Obter um registro
+    * Obter uma coleção de registros
+  * Bloco de instruções try-with-resources
+  * Design Patterns
+    * Singleton Factory para criação de conexões   
+      * Representação na UML
+    * DAO para manipular dados de uma tabela   
+      * Representação na UML
 
 ## Referências Bibliográficas
 
