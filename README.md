@@ -80,8 +80,65 @@ Revisão sobre a linguagem Java
   * Utilização de métodos estáticos 
     * Disponíveis na mesma classe
     * Disponíveis em outra classe/arquivo. 
+* Classe
+  * Definição
+    * Representação de classe e objeto na UML
+    * Diferença entre classe e objeto
+  * Atributos
+  * Métodos
+  * Construtor 
+  * Objeto
+  * Inicialização de um objeto 
+  * Utilização de um objeto
+  * Comparação de objetos
+  * Visibilidade de atributos e métodos
+    * Público
+    * Privado 
+  * Sobrecarga de métodos
+  * Sobrecarga de construtores
+* Pacotes 
+  * Definição
+     * Representação de pacotes na UML
+  * Definição de um pacote em uma classe
+  * Importando uma classe de um pacote diferente
+  * Visibilidade de classes, atributos e métodos
+     * Default/Pacote  
+  * Pacote default
+    * Importar uma classe em um pacote default 
+* Herança
+  * Definição
+     * Representação de herança na UML
+  * Criação de uma classe que realiza herança 
+  * Sobreescrita de métodos
+  * Polimorfismo
+    * Conversão de tipos 
+  * Visibilidade de atributos e métodos
+     * Protegido
+* Interface
+  * Definição
+     * Representação de interface na UML
+  * Criação de uma classe que implementa uma interface
+  * Sobreescrita de métodos
+  * Polimorfismo
+    * Conversão de tipos 
+* Coleções 
+  * Definição
+  * List e Arraylist 
+    * Declaração
+    * Utilização
+      * Adicionar elementos
+      * Acessar elementos
+      * Atualizar elementos 
+      * Remover elementos 
+  * Map e HashMap
+    * Declaração
+    * Utilização
+      * Adicionar elementos
+      * Acessar elementos
+      * Atualizar elementos 
+      * Remover elementos 
 
-## Livros
+## Referências Bibliográficas
 
 FURGERI, SÉRGIO. Java 8 Ensino Didático: Desenvolvimento e Implementação de Aplicações. Saraiva Educação SA, 2018.
 
