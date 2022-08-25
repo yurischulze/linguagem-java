@@ -198,7 +198,10 @@ Revisão sobre a linguagem Java
     * Objeto 
   * Modificador final em um método
   * Modificador final em uma classe
-  * Objeto imutável
+* Objeto imutável
+  * Definição
+  * Como criar um objeto imutável
+  * Como modificar um objeto imutável 
 * Tipos Genéricos
   * Definição
      * Representação de tipos genéricos na UML
